@@ -1,0 +1,24 @@
+.one-tile{
+  background: url("https://source.unsplash.com/random/800x800") no-repeat center center;
+}
+.two-tile{
+  background: url("https://source.unsplash.com/random/800x801") no-repeat center center;
+}
+.three-tile{
+  background: url("https://source.unsplash.com/random/800x802") no-repeat center center;
+}
+.four-tile {
+  background: url("https://source.unsplash.com/random/800x803") no-repeat center center;
+}
+.five-tile{
+  background: url("https://source.unsplash.com/random/800x804") no-repeat center center;
+}
+.six-tile{
+  background: url("https://source.unsplash.com/random/800x805") no-repeat center center;
+}
+
+.box-text {
+  font-size:4em;
+  font-weight: 900;
+  color: white;
+}
